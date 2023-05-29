@@ -1,3 +1,3 @@
 # HTML_2-dars
 
-Bu repository HTML 2-dars kodlari bor
+Bu repositoryda HTML 2-dars kodlari bor
